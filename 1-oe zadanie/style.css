@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: calibri;
+    color: #808080;
+}
+.color {
+    background: linear-gradient(150deg, #484848, #000000);
+    padding: 30%;
+}
+.login{
+    text-align: center;
+}
+#Welcom{
+    font-size: 38px;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 1px #000000;
+
+}
+input[type=text]{
+    background: dimgray;
+    text-align: center;
+    border: 1px solid #fff;
+    margin-bottom: 10px;
+}
+input[type=password]{
+    background: dimgray;
+    text-align: center;
+    border: 1px solid #fff;
+    margin-bottom: 10px;
+}
+input[type=button]
+{
+
+    background: #ffffff;
+    text-align: center;
+    width: 167px;
+
+}
