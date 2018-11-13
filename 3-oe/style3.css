@@ -1,0 +1,87 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%;
+    background: #3b5998;
+    color: white;
+    height: 90px;
+    font-size:40px ;
+
+
+
+}
+.fac
+{
+   padding-top: 30px;
+    padding-left: 56px;
+
+}
+.fac [type=button]
+{
+    position: inherit
+;
+    background: #73ac59;
+    color: white;
+   margin-left: 10px;
+    margin-top: 5px;
+
+}
+article {
+    margin: 28px 0px 3px 214px;
+    padding: 9px;
+    background: #ffffff;
+    width: 56%;
+    height: 290px;
+    text-align: center;
+    padding-top: 101px;
+    display: inline-block;
+    border: 2px solid #dfdfdf;
+}
+.log
+{
+
+    border-bottom: 2px solid #dfdfdf;
+    text-align: left;
+}
+.in{
+    margin: 28px 0 0 36px;
+    font-size: 13px;
+}
+.parol
+{
+    margin: 11px 0 0 67px;
+    font-size: 13px;
+}
+.knopka
+{
+    font-size: 11px;
+    margin: 9px 0 0 52px;
+
+}
+.ssil
+{
+    font-size: 11px;
+    margin: 9px 0 0 103px;
+
+
+}
+.nouuu
+{
+    font-size: 11px;
+    margin: 9px 0 0 103px;
+}
+input[type=button]
+ {
+     background: #3b5998;
+     color: white;
+     margin-left: 10px;
+     margin-top: 5px;
+
+
+ }
+
+
+
+
